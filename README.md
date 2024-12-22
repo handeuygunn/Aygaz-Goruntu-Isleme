@@ -1,5 +1,5 @@
 # Aygaz-Goruntu-Isleme
-https://www.kaggle.com/code/handeuygun/notebook12cc38dc12/edit
+https://www.kaggle.com/code/handeuygun/cnn-goruntu-isleme-hande-uygun/edit
 
 # CNN-Based Image Classification with Augmentation and Preprocessing
 
